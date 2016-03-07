@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <config>
+    <!-- LYBE: Björn [TEST] -->
     <modules>
         <Inchoo_PHP7>
             <version>0.3.0</version>
