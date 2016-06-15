@@ -19,3 +19,5 @@ Yes. _(Of course.)_ See Issues tab. Issue reporting is welcome. Pull requests ar
 For Composer install, available on Firegento: http://packages.firegento.com/ .
 
 Or just download ZIP and copy files to appropriate locations.
+
+Got it 
